@@ -9,6 +9,7 @@ graph-convolutional neural networks(GCN).
 We train mainly on a supervised target for all nodes with labels, by using f(·)a neural network model, the model propagates gradient information from the supervised loss and will enable it to learn representations of nodes both with and without labels.
 
 Main tasks that we dealt in are:
+
 -->Firstly,we introduce a simple and well-behaved layer-wise propagation rule for neural network models which operate directly on graphs.
 -->Secondly, we demonstrate how this form of a graph-based neural network model can be used for fast and scalable semisupervised classification of nodes in a graph.
 
